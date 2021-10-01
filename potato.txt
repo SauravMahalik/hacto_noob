@@ -1,1 +1,1 @@
-alu 1kg = 10 tanka
+sample text file 
