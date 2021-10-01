@@ -13,7 +13,7 @@
   .navbar {
     position: absolute;
     top: 0;
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: space-between;
     padding: 3% 5%;
@@ -21,13 +21,15 @@
   }
   
   .navbar__brand {
-    width: 100px;
+    width: 50%;
     height: 100%;
+    align-content: center;
   }
   
   .brand__logo {
-    width: 100%;
+    width: 50%;
     height: 100%;
+    margin-left: 250px;
   }
   
   .language__drop__down {
